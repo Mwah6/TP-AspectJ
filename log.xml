@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-15T10:29:10.941628200Z</date>
+  <millis>1613384950941</millis>
+  <nanos>628200</nanos>
+  <sequence>0</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:10.947628700Z</date>
+  <millis>1613384950947</millis>
+  <nanos>628700</nanos>
+  <sequence>1</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la méthode void main.java.metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:10.948632400Z</date>
+  <millis>1613384950948</millis>
+  <nanos>632400</nanos>
+  <sequence>2</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Après l'exécution de le méthode void main.java.metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:10.948632400Z</date>
+  <millis>1613384950948</millis>
+  <nanos>632400</nanos>
+  <sequence>3</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Durée d'exécution de la méthode : 8 ms</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:10.948632400Z</date>
+  <millis>1613384950948</millis>
+  <nanos>632400</nanos>
+  <sequence>4</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:14.753345600Z</date>
+  <millis>1613384954753</millis>
+  <nanos>345600</nanos>
+  <sequence>5</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:14.754357Z</date>
+  <millis>1613384954754</millis>
+  <nanos>357000</nanos>
+  <sequence>6</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la méthode Compte main.java.metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:14.754357Z</date>
+  <millis>1613384954754</millis>
+  <nanos>357000</nanos>
+  <sequence>7</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Après l'exécution de le méthode Compte main.java.metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:14.755353400Z</date>
+  <millis>1613384954755</millis>
+  <nanos>353400</nanos>
+  <sequence>8</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Durée d'exécution de la méthode : 2 ms</message>
+</record>
+<record>
+  <date>2021-02-15T10:29:14.755353400Z</date>
+  <millis>1613384954755</millis>
+  <nanos>353400</nanos>
+  <sequence>9</sequence>
+  <logger>main.java.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>main.java.metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>-------------------------------------------------------------</message>
+</record>
